@@ -1,114 +1,161 @@
 # 🚀 Analytics & AI Accelerator
 
-> A structured journey to become an industry-ready Data Analyst, Business Analyst, Data Scientist, and AI Engineer.
+> A structured, project-based roadmap focused on Analytics, Data Science, and Artificial Intelligence through real-world projects, interview preparation, and continuous learning.
 
-## 👋 About Me
-
-Hi! I'm an Analytics professional passionate about solving business problems using data.
-
-I'm currently following a self-designed, industry-focused Analytics & AI Accelerator program covering:
-
-- SQL
-- Python
-- Excel
-- Power BI
-- Statistics
-- Machine Learning
-- Generative AI
-- AI Agents
-- Business Analytics
-- Cloud & Deployment
-
-The objective is to build production-ready skills through hands-on projects, case studies, and interview preparation.
+![Status](https://img.shields.io/badge/Status-Active-success)
+![Batch](https://img.shields.io/badge/Batch-2026--2027-blue)
+![Current%20Module](https://img.shields.io/badge/Current-Orientation-orange)
 
 ---
 
-# 🎯 Goals
+# 👋 Welcome
+
+Welcome to my **Analytics & AI Accelerator** repository.
+
+This repository documents my journey of mastering **Analytics, Data Science, Machine Learning, and Artificial Intelligence** through structured learning, real-world projects, and hands-on practice.
+
+The goal is simple:
+
+> **Learn. Build. Share. Grow.**
+
+Everything in this repository follows a **project-first approach** inspired by real business problems, industry best practices, and continuous improvement.
+
+---
+
+# 🎯 Objectives
 
 - Master SQL for Analytics
 - Become proficient in Python for Data Science
-- Build advanced Power BI dashboards
-- Develop real-world Machine Learning projects
-- Learn Generative AI and AI Agents
-- Create an impressive GitHub portfolio
-- Prepare for Data Analyst, Business Analyst, Data Scientist, and AI Engineer interviews
+- Build enterprise-grade Power BI dashboards
+- Learn Statistics and Machine Learning
+- Develop Generative AI applications
+- Build AI Agents
+- Create production-ready portfolio projects
+- Prepare for Analytics & AI interviews
 
 ---
 
-# 📚 Learning Roadmap
+# 🎓 Academy Status
 
-## Phase 1
+| Item | Status |
+|------|--------|
+| Start Date | 31 July 2026 |
+| Current Phase | Orientation |
+| Current Module | Academy Setup |
+| Interview Target | September 2026 |
+| Program Status | 🟢 Active |
+| README Version | v1.0 |
+
+---
+
+# 🗺️ Learning Roadmap
+
+## Phase 1 — Analytics Foundations
+
 - SQL
 - Python
 - Excel
 - Power BI
 - Statistics
-- Resume Preparation
-- Interview Preparation
+- Git & GitHub
 
-## Phase 2
+---
+
+## Phase 2 — Data Science
+
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
 - Machine Learning
-- Time Series
 - Feature Engineering
-- Model Evaluation
+- Time Series Forecasting
 
-## Phase 3
+---
+
+## Phase 3 — AI Engineering
+
 - Generative AI
-- RAG
+- Prompt Engineering
+- Retrieval-Augmented Generation (RAG)
 - AI Agents
+- API Development
+- Cloud Fundamentals
 - Deployment
-- Cloud
 
 ---
 
 # 📂 Repository Structure
 
-Analytics_AI_Accelerator/
-
+```text
+analytics-ai-accelerator
+│
 ├── 01_SQL
-
 ├── 02_Python
-
 ├── 03_Excel
-
 ├── 04_PowerBI
-
 ├── 05_Statistics
-
 ├── 06_MachineLearning
-
 ├── 07_GenAI
-
 ├── 08_AI_Agents
-
 ├── 09_Projects
-
-├── 10_Resume
-
+├── 10_Career_Guide
 ├── 11_Interview
-
 ├── 12_GitHub
-
 ├── 13_Notes
-
-└── 14_Datasets
+├── 14_Datasets
+├── 15_Assessments
+├── 16_CheatSheets
+├── 17_Certificates
+├── 18_Resources
+└── 19_Capstone
+```
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ Technology Stack
+
+## Programming Languages
 
 - SQL (PostgreSQL)
 - Python
-- Excel
+
+## Databases
+
+- PostgreSQL
+- MySQL *(Planned)*
+
+## Data Analytics & Visualization
+
+- Microsoft Excel
 - Power BI
-- Git & GitHub
-- Jupyter Notebook
-- VS Code
-- Streamlit
-- OpenAI APIs
+- DAX
+
+## Data Science Libraries
+
+- NumPy
+- Pandas
+- Matplotlib
+- Plotly *(Planned)*
+- Scikit-learn
+
+## Artificial Intelligence
+
+- OpenAI API
 - LangChain
+- LangGraph
+- Streamlit
+- FastAPI
+
+## Development Tools
+
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
+
+## Deployment & Cloud
+
 - Docker
-- Azure (Upcoming)
+- Azure *(Planned)*
 
 ---
 
@@ -122,37 +169,155 @@ Analytics_AI_Accelerator/
 | Power BI | 🟡 In Progress |
 | Statistics | 🟡 In Progress |
 | Machine Learning | ⚪ Planned |
-| GenAI | ⚪ Planned |
+| Generative AI | ⚪ Planned |
 | AI Agents | ⚪ Planned |
 | Portfolio Projects | ⚪ Planned |
-| Interview Preparation | 🟡 In Progress |
 
 ---
 
-# 📌 Projects
+# 🏗️ Portfolio Projects
 
-Projects will be added progressively throughout the program.
+Projects will be built throughout this journey.
 
-Upcoming projects include:
+Each project will include:
+
+- Business Problem
+- Dataset
+- Data Cleaning
+- Exploratory Data Analysis
+- Solution Implementation
+- Business Insights
+- Recommendations
+- Future Improvements
+- Documentation
+
+## Business Analytics
 
 - Sales Analytics Dashboard
 - Blinkit Delivery SLA Analysis
+- Zepto Demand Forecasting
 - Customer Segmentation
-- Demand Forecasting
 - HR Analytics Dashboard
-- Banking Risk Analytics
-- Resume Analyzer using AI
+- Banking Analytics Dashboard
+
+## Data Science
+
+- Loan Default Prediction
+- Customer Churn Prediction
+- Fraud Detection
+- Customer Lifetime Value Prediction
+
+## Artificial Intelligence
+
+- Resume Analyzer
 - AI Document Chatbot
+- SQL Copilot
 - Analytics AI Agent
+- Business Intelligence Assistant
+
+---
+
+# 📚 Weekly Learning Log
+
+| Week | Module | Status |
+|------|--------|--------|
+| Week 0 | Orientation & Repository Setup | ✅ Completed |
+| Week 1 | SQL - Window Functions | ⏳ Upcoming |
+| Week 2 | Advanced SQL | ⏳ Upcoming |
+| Week 3 | Python Fundamentals | ⏳ Upcoming |
+| Week 4 | Power BI Advanced | ⏳ Upcoming |
+
+Detailed learning notes are maintained inside the **13_Notes** folder.
+
+---
+
+# 🏆 Milestones
+
+🏅 **Milestone 1**
+- ✅ Repository Setup
+
+🏅 **Milestone 2**
+- ⏳ SQL Interview Ready
+
+🏅 **Milestone 3**
+- ⏳ Power BI Portfolio
+
+🏅 **Milestone 4**
+- ⏳ Machine Learning Portfolio
+
+🏅 **Milestone 5**
+- ⏳ AI Applications
+
+🎓 **Graduation**
+- ⏳ Industry Ready Analytics & AI Professional
+
+---
+
+# 📜 Certifications
+
+This repository includes certificates from publicly shareable learning platforms such as:
+
+- Coursera
+- Microsoft Learn
+- Kaggle
+- Google
+- IBM
+- DeepLearning.AI
+
+---
+
+# 🚀 Future Roadmap
+
+Upcoming focus areas include:
+
+- Advanced SQL
+- Advanced Python
+- Machine Learning
+- Data Engineering Fundamentals
+- Generative AI
+- AI Agents
+- Cloud Deployment
+- End-to-End Analytics Projects
+
+---
+
+# 🤝 Repository Philosophy
+
+This repository is more than a collection of notes.
+
+It is a continuously evolving portfolio that demonstrates technical growth, practical problem solving, and real-world project development.
+
+Every project follows a structured approach:
+
+- Understand the Business Problem
+- Explore the Dataset
+- Perform Data Analysis
+- Build the Solution
+- Generate Business Insights
+- Provide Recommendations
+- Document Learnings
+
+The objective is not just to complete projects—but to develop solutions that reflect industry practices and showcase analytical thinking.
 
 ---
 
 # 🌱 Current Focus
 
-Preparing for Data Analyst and Business Analyst interviews while building a strong Analytics & AI portfolio.
+**Building strong Analytics fundamentals while preparing for Data Analyst and Business Analyst interviews.**
 
 ---
 
-## ⭐ Thanks for visiting!
+# ⭐ Thank You
 
-This repository documents my learning journey, projects, notes, and progress toward becoming an AI-enabled Analytics professional.
+Thank you for visiting this repository.
+
+I hope the projects, notes, and resources are helpful to fellow learners and professionals.
+
+If you find this repository useful, feel free to ⭐ star it or use it as inspiration for your own learning journey.
+
+Happy Learning! 🚀
+
+---
+
+**README Version:** v1.0  
+**Last Updated:** 31 July 2026
